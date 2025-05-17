@@ -1,0 +1,19 @@
+baseURL: "https://saveourwatertiny.ca/"
+languageCode: "en-us"
+title: "Save Our Water Tiny"
+theme: "papermod"
+enableRobotsTXT: true
+uglyURLs: false
+
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  description: "Grassroots campaign to protect the Alliston Aquifer from gravel pit expansion."
+  images:
+    - /img/social-share.jpg
+  twitterCard: true
+  twitterSite: "@YourHandle"
+  ogImage: "/img/social-share.jpg"
